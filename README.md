@@ -7,6 +7,7 @@ I worked on this project by following the Codebasics PowerBi Course.
 
 [Live Project Link](https://www.novypro.com/project/bi-360--sales-insights)
 
+
  ## Tool 
   *  SQL
   *  PowerBi Desktop
